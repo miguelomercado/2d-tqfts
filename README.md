@@ -1,1 +1,1 @@
-Final Project for USC Graduate Algebraic Topology course.
+Final Project for USC Graduate Algebraic Topology course w/ Ajay Srinivasan.
