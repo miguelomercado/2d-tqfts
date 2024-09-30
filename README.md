@@ -1,1 +1,1 @@
-# 2d-tqfts
+Final Project for USC Graduate Algebraic Topology course.
